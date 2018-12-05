@@ -4,3 +4,7 @@
 h1, p {
   font-family: Lato;
 }
+
+button {
+  margin: 12px;
+}
