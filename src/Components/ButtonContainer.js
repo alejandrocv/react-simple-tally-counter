@@ -13,21 +13,21 @@ constructor(props) {
       <div className="container">
         <div className="row" style={{ border: 'solid gray' }}>
            
-            <button type="button" style={{'margin': 12}} 
+            <button type="button" 
               className="btn btn-primary"
               onClick={this.props.increment}
             >
               +
         </button>
 
-            <button type="button" style={{'margin': 12}} 
+            <button type="button"
                 className="btn btn-primary"
                 onClick={this.props.decrement}
                 >
               -
         </button>
          
-          <button type="button" style={{'margin': 12}} 
+          <button type="button"
               className="btn btn-primary"
               onClick={this.props.reset}
               >
