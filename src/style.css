@@ -8,3 +8,9 @@ h1, p {
 button {
   margin: 12px;
 }
+
+
+body{
+  max-width: 750px;
+  margin: 0 auto;
+}
