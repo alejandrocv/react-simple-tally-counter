@@ -1,5 +1,3 @@
-import React from 'react';
-
 import React, { Component } from 'react';
 import DisplayContainer from './Components/DisplayContainer'
 import ButtonContainer from './Components/ButtonContainer'
